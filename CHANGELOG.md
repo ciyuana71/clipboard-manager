@@ -30,5 +30,5 @@
 - 现代渐变界面与卡片式列表
 - 一键打包脚本（PyInstaller）
 
-[2.1.0]: https://github.com/你的用户名/clipboard-manager/releases/tag/v2.1.0
-[2.0.0]: https://github.com/你的用户名/clipboard-manager/releases/tag/v2.0.0
+[2.1.0]: https://github.com/ciyuana71/clipboard-manager/releases/tag/v2.1.0
+[2.0.0]: https://github.com/ciyuana71/clipboard-manager/releases/tag/v2.0.0

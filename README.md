@@ -37,12 +37,12 @@
 
 ### 方式一：直接使用（推荐）
 
-从 [Releases](https://github.com/你的用户名/clipboard-manager/releases) 下载 `ClipboardManager.exe`，双击即可运行，无需安装 Python。
+从 [Releases](https://github.com/ciyuana71/clipboard-manager/releases) 下载 `ClipboardManager.exe`，双击即可运行，无需安装 Python。
 
 ### 方式二：源码运行
 
 ```bash
-git clone https://github.com/你的用户名/clipboard-manager.git
+git clone https://github.com/ciyuana71/clipboard-manager.git
 cd clipboard-manager
 pip install -r requirements.txt
 

@@ -54,4 +54,4 @@ python clipboard_manager.py
 
 ## 问题反馈
 
-使用中遇到 Bug 或有功能建议，欢迎提交 [Issue](https://github.com/你的用户名/clipboard-manager/issues)。
+使用中遇到 Bug 或有功能建议，欢迎提交 [Issue](https://github.com/ciyuana71/clipboard-manager/issues)。
